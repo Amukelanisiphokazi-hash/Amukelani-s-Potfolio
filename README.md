@@ -1,2 +1,23 @@
 # Amukelani's Potfolio
-A collection of academic and personal projects showcasing my growth and practical skills in Informatiion Technology, Data Science, Programming, and emmerging technologies. Continuously updated as I learn and develop new skills 
+## Welcome to my IT Portfolio
+
+###### I am an Information Technology student majoring in Data Science, continuously developing my technical knowledge and practical skills.
+
+### Areas of Interrest
+
+- data Science 
+- Artificial Intelligence
+- Machine Learning
+- Programming
+- Data engineering
+- Cybersecurity 
+- Computer Networking
+- Mathematics
+
+ ### Projects 
+ 
+ This repository contains my academic and personal projects, documenting my journey and practical development. More projects will be added as I continue learning and building.
+
+ ### Technologies and Tools 
+
+ More to be added as i develop my skills.
