@@ -5,7 +5,6 @@
 
 ### Areas of Interrest
 
-- data Science 
 - Artificial Intelligence
 - Machine Learning
 - Programming
